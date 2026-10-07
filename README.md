@@ -86,3 +86,17 @@
 
 
 
+
+
+
+
+## PikPak 가입·장기 보관 전에 확인
+
+
+
+[약관·개인정보: 로그 보관, 계정 공유와 파일 삭제 조건](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github) — 개인 공간과 노로그 보장은 다릅니다. 정지·삭제 조건과 중요한 원본의 별도 보관을 확인하세요.
+
+
+
+공식 문서 확인: 2026-10-08.
+
