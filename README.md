@@ -35,7 +35,7 @@
 
 ## 새로 정리한 안내
 
-- [픽팍 윈도우 드라이브 연결](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#windows-drive) · [10TB 용량·전송량과 드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github)
+- [픽팍 윈도우 드라이브 연결](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github) · [10TB 용량·전송량과 드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github)
 
 
 - [NordPass 무료·Premium 선택 기준](https://appguideplus.com/ko/nordpass/?utm_source=github) · [비밀번호 가져오기와 첫 설정](https://appguideplus.com/ko/nordpass/getting-started/?utm_source=github)
@@ -54,7 +54,15 @@
 일부 웹사이트 링크에는 제휴 링크가 포함되며, 구매·가입으로 운영자가 수수료를 받을 수 있습니다. 각 서비스의 공식 고객센터는 아닙니다.
 
 
-목차 업데이트: 2026-09-28.
+목차 업데이트: 2026-10-07.
 
 
 
+
+
+## 만료·인증 문자·취소가 궁금할 때
+
+- [PikPak Premium 만료 후 파일 보관](https://appguideplus.com/ko/pikpak/expiry/?utm_source=github): 용량 초과 조건과 별도 사본을 확인하세요.
+- [여행 eSIM으로 인증 문자·전화를 받을 수 있나요?](https://appguideplus.com/ko/guides/esim-sms/?utm_source=github): 데이터 회선과 원래 번호를 구분합니다.
+- [NordVPN 자동 갱신 해지와 환불](https://appguideplus.com/ko/nordvpn/cancel-and-refund/?utm_source=github): 구매처별 신청 경로를 확인하세요.
+- [楽天のキャンセル・ポイントとクーポンの返還](https://appguideplus.com/ja/rakuten-coupons/cancellation/?utm_source=github): 有効期限と注文変更の条件を確認してください。
