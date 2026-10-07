@@ -66,3 +66,23 @@
 - [여행 eSIM으로 인증 문자·전화를 받을 수 있나요?](https://appguideplus.com/ko/guides/esim-sms/?utm_source=github): 데이터 회선과 원래 번호를 구분합니다.
 - [NordVPN 자동 갱신 해지와 환불](https://appguideplus.com/ko/nordvpn/cancel-and-refund/?utm_source=github): 구매처별 신청 경로를 확인하세요.
 - [楽天のキャンセル・ポイントとクーポンの返還](https://appguideplus.com/ja/rakuten-coupons/cancellation/?utm_source=github): 有効期限と注文変更の条件を確認してください。
+
+
+
+
+## 구매 전에 비교할 안내
+
+
+
+- [픽팍 Premium 가격·구매·갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
+- 
+- [클라우드 용도와 3년·5년 비용](https://appguideplus.com/ko/pcloud/cloud-storage-comparison/?utm_source=github)
+- 
+- [일본 여행 eSIM 용량·무제한·핫스팟](https://appguideplus.com/ko/saily/japan-esim/?utm_source=github)
+- 
+- [楽天買いまわりの計算（日本語）](https://appguideplus.com/ja/rakuten-coupons/points-and-marathon/?utm_source=github)
+- 
+
+
+
+
